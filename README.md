@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seulzutora&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seulzutora?pet-id=697337500601244332"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seulzutora&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seulzutora"
+  width="600"
+  height="300"
+/>
 </a>
-  
